@@ -1,4 +1,5 @@
-<?php namespace Phoenix\EloquentMeta;
+<?php 
+namespace Phoenix\EloquentMeta;
 
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputArgument;
