@@ -1,4 +1,5 @@
-<?php namespace Phoenix\EloquentMeta;
+<?php 
+namespace Phoenix\EloquentMeta;
 
 class Helpers
 {
